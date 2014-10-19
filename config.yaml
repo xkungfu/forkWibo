@@ -1,0 +1,23 @@
+name: forkwibo
+version: 1
+
+handle:
+- directoryindex: index.php
+- rewrite: if(!is_file()) goto "index.php"
+
+cron:
+- description: cron10min
+  url: /cron/cron10min
+  schedule: */10 * * * *
+- description: cron1hour
+  url: /cron/cron1hour
+  schedule: 0 * * * *
+- description: cron4hour
+  url: /cron/cron4hour
+  schedule: 0 */4 * * *
+- description: cron1day
+  url : /cron/cron1day
+  schedule: 0 0 * * *
+- description: cron2day
+  url : /cron/cron2day
+  schedule: 0 0 */2 * *

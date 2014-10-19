@@ -1,0 +1,16 @@
+body {
+    /*background: url('../img/grid.png') repeat center center;*/
+    font-family: SimSun, "宋体", STXihei, "华文细黑","Microsoft YaHei", "微软雅黑" , serif;
+}
+
+.link {
+    text-decoration: none;
+}
+
+#setting {
+    color: #E9E9E9;
+}
+
+#loadMore:hover {
+    color: #00DBD3;
+}

@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background: url('../img/intro_background.jpg') repeat fixed;
+    /*disable scroll bar overflow*/
+    overflow: hidden;
+    font-family: SimSun, "宋体", STXihei, "华文细黑","Microsoft YaHei", "微软雅黑" , serif;
+}
+
+#heading {
+    /*margin-top: 100px;*/
+    color: #FFFFFF;
+    font-size: 3em;
+    font-family: SimSun, "宋体", STXihei, "华文细黑","Microsoft YaHei", "微软雅黑";
+}
+
+#intro {
+    font-size: 1.5em;
+    color: #00FFF5;
+    font-family: SimSun, "宋体", STXihei, "华文细黑","Microsoft YaHei", "微软雅黑";
+    margin-top: 100px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.ui.blue.button.start-use-button {
+    padding: .5em 1em;
+    border-radius: 18px;
+    border: 1px solid #FFFFFF;
+    font-family: SimSun, "宋体", STXihei, "华文细黑","Microsoft YaHei", "微软雅黑";
+}

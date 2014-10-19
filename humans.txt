@@ -1,0 +1,18 @@
+/* TEAM */
+    Creator: jsxqf
+    Email: js-xqf@hotmail.com
+    Weibo: jsxqf
+
+/* SITE */
+    Last update: 2014/10/19
+    Github Repo: https://github.com/xuqingfeng/forkWibo
+    Bug Report: https://github.com/xuqingfeng/forkWibo/issues
+    Thanks To:
+        slim
+        semantic-ui
+        httpful
+        idiorm
+        jQuery
+        handlebars.js
+        SAE
+        CDNJS
