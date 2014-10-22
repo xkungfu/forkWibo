@@ -8,13 +8,13 @@ forkWibo 没能通过新浪审核，不允许除测试帐号之外的其他帐�
 
 ####展示
 
-![](screenshots/QQ2014021-4.png)
+![](screenshots/QQ20141021-4.png)
 
-![](screenshots/QQ2014021-1.png)
+![](screenshots/QQ20141021-1.png)
 
-![](screenshots/QQ2014021-2.png)
+![](screenshots/QQ20141021-2.png)
 
-![](screenshots/QQ2014021-3.png)
+![](screenshots/QQ20141021-3.png)
 
 ####依赖
 
