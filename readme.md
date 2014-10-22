@@ -1,5 +1,20 @@
-###forkWibo
+##forkWibo
 
+####Notice
+
+forkWibo 没能通过新浪审核，不允许除测试帐号之外的其他帐号授权使用 ;(
+
+如需使用，请查看源码，自己搭建应用 OR 微博@jsxqf 让我帮你加到测试帐号中。
+
+####展示
+
+![](screenshots/QQ2014021-4.png)
+
+![](screenshots/QQ2014021-1.png)
+
+![](screenshots/QQ2014021-2.png)
+
+![](screenshots/QQ2014021-3.png)
 
 ####依赖
 
